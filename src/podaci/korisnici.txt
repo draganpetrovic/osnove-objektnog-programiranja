@@ -1,0 +1,6 @@
+2|Ivan|Ivanovic|423423122|2|KraljaAleksandra12|641234112|ivan|qwer123|Lekar|55643.0|1|Hirurg
+3|Milan|Milanovic|123123123|2|Beogradski put 123|661212352|milan|qwer|Lekar|23651.0|2|Stomatolog
+1|Marija|Markovic|111000111|1|DositejaObradovica52|60010203|majam|1234|MedicinskaSestra|38900.0|2
+5|Jelena|Jelic|45215421|1|Bulevar 21|65874965|jelena|1212|MedicinskaSestra|45961.0|1
+4|Sneza|Ilic|4423141|1|Kralja 123|421412412|sneza|qwer|Pacijent|3|1
+6|Zoran|Simic|98392498|2|Beogradski put 12|60012010|zoran|zo123|Pacijent|2|2
